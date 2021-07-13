@@ -20,12 +20,11 @@ require 'inc/header.php';
                         <h6><span>Qui sommes nous ?</span></h6>
 
                     </div>
-                    <p class="font22 text-dark">Onum is a values-driven SEO agency dedicated to
-                        empowering our customers.</p>
-                    <p class="p-b45">Over the years, we have worked with Fortune 500s and brand-new
-                        startups. We help ambitious businesses like yours generate more profits by
-                        building awareness, driving web traffic, connecting with customers, and
-                        growing overall sales. Give us a call.</p>
+                    <p class="font22 text-dark">VOTRE AGENCE WEB</p>
+                    <p class="p-b45">IMPACTAFRIC est une agence de communication digitale à Abidjan, spécialisée dans la création de sites internet, 
+                    de logiciels de gestion en ligne, de CRM sur mesure, les sites en responsive design, de communication digitale, de conception de visuelle, etc.
+                    Nous vous accompagnons tout au long de votre projet web, de l'étude à la mise en service en passant par 
+                    l'hébergement et le référencement ; également pour votre projet digital, de l’idée au print en passant par la conception visuelle.</p>
                 </div>
             </div>
         </div>
@@ -41,8 +40,8 @@ require 'inc/header.php';
                     <div class="service-box-s2 s-box service-box-s2-bg1">
                         <div class="number-box">01</div>
                         <div class="content-box">
-                            <h5>Radical Integrity</h5>
-                            <p>Our people truly care for our work and for each other.
+                            <h5>Intégrité radicale</h5>
+                            <p>ONos employés se soucient vraiment de notre travail et les uns des autres.
                             </p>
                         </div>
                     </div>
@@ -51,8 +50,8 @@ require 'inc/header.php';
                     <div class="service-box-s2 s-box service-box-s2-bg2">
                         <div class="number-box s2">02</div>
                         <div class="content-box">
-                            <h5>People First</h5>
-                            <p>We believe that a culture will build a thriving company.
+                            <h5>Les gens d'abord</h5>
+                            <p>Nous croyons qu'une culture construira une entreprise florissante.
                             </p>
                         </div>
                     </div>
@@ -61,8 +60,8 @@ require 'inc/header.php';
                     <div class="service-box-s2 s-box service-box-s2-bg3">
                         <div class="number-box s3">03</div>
                         <div class="content-box">
-                            <h5>Process Perfection</h5>
-                            <p>We’re driven to becoming the best version of ourselves.
+                            <h5>Process Perfection/h5>
+                            <p>Nous sommes déterminés à devenir la meilleure version de nous-mêmes.
                             </p>
                         </div>
                     </div>
@@ -72,13 +71,13 @@ require 'inc/header.php';
         <div class="row flex-row justify-content-center">
             <div class="col-md-6 col-xs-12 xs-m-b40">
                 <div class="ot-heading">
-                    <h6><span>Why Choose Us</span></h6>
-                    <h2 class="main-heading">Work with a Dedicated<br>SEO Company</h2>
+                    <h6><span>POURQUOI NOUS CHOISIR</span></h6>
+                    <h2 class="main-heading">Notre lette motive<br></h2>
                 </div>
-                <p class="m-b35">From keyword research to technical auditing to site
-                    migration, our team of technical SEOs are true experts in their
-                    field.</p>
-                <div class="ot-progress m-b20">
+                <p class="m-b35">UNE EQUIPE EXPERIMENTEE QUI PARTAGE UNE VALEUR COMMUNE : «LA SATISFACTION CLIENT». QUALITE, PERFORMANCE, 
+                    EFFICACITE ET PROMPTITUDE VOUS ACCOMPAGNERONS TOUT AU LONG DE LA REALISATION DE VOTRE PROJET. NOUS VEILLONS À 
+                    VOUS OFFRIR UNE SOLUTION SUR MESURE.</p>
+               <!-- <div class="ot-progress m-b20">
                     <div class="overflow">
                         <span class="pname fleft">Keyword Research</span>
                         <span class="ppercent fright">70%</span>
@@ -104,7 +103,7 @@ require 'inc/header.php';
                     <div class="iprogress">
                         <div class="progress-bar" data-percent="60%"></div>
                     </div>
-                </div>
+                </div>-->
             </div>
             <div class="col-md-6 col-xs-12 align-self-center">
                 <img src="images/about-us-2.png" alt="">
@@ -126,34 +125,34 @@ require 'inc/header.php';
                             <div class="ot-counter s2">
                                 <h6>ACTIVE CLIENTS</h6>
                                 <div>
-                                    <span class="num" data-to="330" data-time="2000">0</span>
+                                    <span class="num" data-to="5" data-time="2000">0</span>
                                     <span>+</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 xs-m-b40 sm-m-b40">
                             <div class="ot-counter s2">
-                                <h6>PROJECTS DONE</h6>
+                                <h6>PROJETS RÉALISÉS</h6>
                                 <div>
-                                    <span class="num" data-to="850" data-time="2000">0</span>
+                                    <span class="num" data-to="20" data-time="2000">0</span>
                                     <span>+</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 xs-m-b40">
                             <div class="ot-counter s2">
-                                <h6>TEAM ADVISORS</h6>
+                                <h6>L'ÉQUIPE</h6>
                                 <div>
-                                    <span class="num" data-to="25" data-time="2000">0</span>
+                                    <span class="num" data-to="4" data-time="2000">0</span>
                                     <span>+</span>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
                             <div class="ot-counter s2">
-                                <h6>GLORIOUS YEARS</h6>
+                                <h6>ANNÉES GLORIEUSES</h6>
                                 <div>
-                                    <span class="num" data-to="10" data-time="2000">0</span>
+                                    <span class="num" data-to="3" data-time="2000">0</span>
                                     <span>+</span>
                                 </div>
                             </div>
@@ -183,79 +182,19 @@ require 'inc/header.php';
                 <div class="team-slider">
                     <div class="team-wrap">
                         <div class="team-thumb">
-                            <img src="images/mem1-1.jpg" alt="">
+                            <img src="images/sophie.jpg" alt="">
                         </div>
                         <div class="team-info">
-                            <h4>Gina Bruno</h4>
-                            <span>CEO of Company</span>
+                            <h4>Sophie OUATTARA</h4>
+                            <span>Responsable Administrative</span>
                             <div class="team-social">
                                 <a class="twitter" target="_blank" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="facebook" target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="pinterest" target="_blank" href="#"><i class="fab fa-pinterest-p"></i></a>
                                 <span class="flaticon-add-1"></span>
                             </div>
                         </div>
                     </div>
-                    <div class="team-wrap">
-                        <div class="team-thumb">
-                            <img src="images/mem2-1.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h4>David Ferry</h4>
-                            <span>WEB Developer</span>
-                            <div class="team-social">
-                                <a class="twitter" target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="facebook" target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="pinterest" target="_blank" href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <span class="flaticon-add-1"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-wrap">
-                        <div class="team-thumb">
-                            <img src="images/mem3-1.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h4>Christina Tores</h4>
-                            <span>General Manager</span>
-                            <div class="team-social">
-                                <a class="twitter" target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="facebook" target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="pinterest" target="_blank" href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <span class="flaticon-add-1"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-wrap">
-                        <div class="team-thumb">
-                            <img src="images/mem4-1.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h4>Robert Cooper</h4>
-                            <span>WEB Designer</span>
-                            <div class="team-social">
-                                <a class="twitter" target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="facebook" target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="pinterest" target="_blank" href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <span class="flaticon-add-1"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-wrap">
-                        <div class="team-thumb">
-                            <img src="images/mem5-1.jpg" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h4>Olivia Chee</h4>
-                            <span>Marketing Manager</span>
-                            <div class="team-social">
-                                <a class="twitter" target="_blank" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="facebook" target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="pinterest" target="_blank" href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <span class="flaticon-add-1"></span>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>

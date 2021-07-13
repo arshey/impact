@@ -14,7 +14,7 @@ require 'inc/header.php';
                 <div class="col-md-12 m-b20">
                     <div class="ot-heading text-center">
                         <h6><span>L'expérience Digitale</span></h6>
-                        <h2 class="main-heading">View Some of Our Works <br>and Case Studies for Clients
+                        <h2 class="main-heading">Voir certains de nos travaux <br >et études de cas pour les clients
                         </h2>
                     </div>
                 </div>
@@ -25,8 +25,8 @@ require 'inc/header.php';
                         <li><a href="#" data-filter="*" class="selected">Tout</a></li>
                         <li><a href="#" data-filter=".development">Site Internet</a></li>
                         <li><a href="#" data-filter=".marketing">Application Web et mobile</a></li>
-                        <li><a href="#" data-filter=".media">Conception de visuelle</a></li>
-                        <li><a href="#" data-filter=".optimization">Communication digitale/a></li>
+                        <li><a href="#" data-filter=".media">Nos projet</a></li>
+                        <!--<li><a href="#" data-filter=".optimization">Communication digitale/a></li> -->
                     </ul>
                 </div>
                 <div class="projects-grid projects-style-2 ">

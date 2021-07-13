@@ -117,41 +117,36 @@ require 'inc/header.php';
                                     </li>
                                 </ul>
                                 <div id="tab-1454" class="tab-content current">
-                                    <p>Faire le choix de nous confiez, que ce soit pour le développement 
-                                       de votre application, l'optimisation de votre référencement, trouver du contenu riche pour votre activité, 
-                                       vous permettra de rester calme et serein en atteingant vos objectifs.</p>
-                                    <ul class="has-icon unstyle">
+                                    <p>IMPACTAFRIC agence d'intégration de solutions WEB et DIGITALES, présente sur le marché ivoirien, 
+                                        vous accompagne tout au long de vos démarches de création de sites internet, de sites e-commerce, 
+                                        de logiciels de gestion, de conceptions et d'impressions de supports de communication etc. 
+                                        Nous répondons à vos besoins de communication digital depuis 2018 grâce à une équipe qui régorge toutes 
+                                        les compétences digitales indispensables aux projets multi-canaux.</p>
+                                    <!--<ul class="has-icon unstyle">
                                         <li><i class="flaticon-check"></i> We provide a
                                             revolutionary level of transparency into our campaigns -
                                             from backlink acquisition.</li>
                                         <li><i class="flaticon-check"></i> Want to test our process
                                             before ramping up the budget? We'll prove our model and
                                             you'll see revenue soar.</li>
-                                    </ul>
+                                    </ul>-->
                                 </div>
                                 <div id="tab-2454" class="tab-content">
                                     <p>Notre objectif commun : réussir vos projets. Nous mettons un point d'honneur à instaurer des relations de confiance et de partenariat durable avec nos clients. Ils bénéficient d'un interlocuteur unique à leur disposition. Nos mots d'ordre : Qualité, Efficacité, Promptitude et Professionnalisme.</p>
-                                    <ul class="has-icon unstyle">
-                                        <li><i class="flaticon-check"></i> Want to test our process
-                                            before ramping up the budget? We'll prove our model and
-                                            you'll see revenue soar.</li>
+                                    <!--<ul class="has-icon unstyle">
                                         <li><i class="flaticon-check"></i> We provide a
                                             revolutionary level of transparency into our campaigns -
                                             from backlink acquisition.</li>
-                                    </ul>
+                                        <li><i class="flaticon-check"></i> Want to test our process
+                                            before ramping up the budget? We'll prove our model and
+                                            you'll see revenue soar.</li>
+                                    </ul>-->
                                 </div>
                                 <div id="tab-3454" class="tab-content">
                                     <p>
                                         Site web, Application web et mobile, Communication digitale, Conception de visuelle, nous vous accompagnons dans tous vos projets. À l'écoute de vos envies et besoins, nous répondons à vos demandes pour donner vie à vos projets ; nous prenons également en compte vos problématiques afin de définir et vous proposer des solutions propre à vous.
                                     </p>
-                                    <ul class="has-icon unstyle">
-                                        <li><i class="flaticon-check"></i>help Want to test our process
-                                            before ramping up the budget? We'll prove our model and
-                                            you'll see revenue soar.</li>
-                                        <li><i class="flaticon-check"></i>help We provide a
-                                            revolutionary level of transparency into our campaigns -
-                                            from backlink acquisition.</li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -180,76 +175,7 @@ require 'inc/header.php';
                             </figure>
                         </a>
                     </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-3.png" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-4.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-5.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-6.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-1.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-2.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-3.png" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-4.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-5.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
-                    <div class="partners-slide">
-                        <a href="#" class="client-logo">
-                            <figure class="partners-slide-inner">
-                                <img class="partners-slide-image" src="images/client-logo-6.svg" alt="">
-                            </figure>
-                        </a>
-                    </div>
+  
                 </div>
             </div>
         </div>

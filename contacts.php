@@ -18,27 +18,26 @@ require 'inc/header.php';
                             <h6><span>Détails de contact</span></h6>
                             <h2 class="main-heading">Nos Contacts </h2>
                         </div>
-                        <p class="m-b45">Give us a call or drop by anytime, we endeavour to answer all enquiries
-                            within 24 hours on business days. We will be happy to answer your questions.</p>
+                        <p class="m-b45">N’HÉSITEZ PAS À NOUS CONTACTER, NOUS SOMMES À VOTRE ÉCOUTE</p>
                         <div class="contact-info text-light m-b30">
                             <i class="flaticon-world"></i>
                             <div class="info-text">
                                 <h6>Notre Adresse</h6>
-                                <p>411 University St, Seattle, USA</p>
+                                <p>Abidjan , Cote d'ivoire, Cocody </p>
                             </div>
                         </div>
                         <div class="contact-info text-light m-b30">
                             <i class="flaticon-note"></i>
                             <div class="info-text">
                                 <h6>Notre mail:</h6>
-                                <p><a href="mailto:onum_company@mail.com">onum_company@mail.com</a></p>
+                                <p><a href="mailto:onum_company@mail.com">oinfos@impactafric.com</a></p>
                             </div>
                         </div>
                         <div class="contact-info text-light">
                             <i class="flaticon-viber"></i>
                             <div class="info-text">
                                 <h6>Notre Téléphone</h6>
-                                <p><a href="tel:800-456-478-23">+1 -800-456-478-23</a></p>
+                                <p><a href="tel:800-456-478-23">+225 20 39 80 70 / +225 07 48 99 79 45</a></p>
                             </div>
                         </div>
                     </div>
@@ -83,7 +82,7 @@ require 'inc/header.php';
     <section>
         <div class="map">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d86077.66255184308!2d-122.40402224079803!3d47.60810999586645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906ab3f905c4b1%3A0x96bf575ff75ab1aa!2s411%20University%20St%2C%20Seattle%2C%20WA%2098101%2C%20Hoa%20K%E1%BB%B3!5e0!3m2!1svi!2s!4v1584084043716!5m2!1svi!2s"
+                src=""
                 width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
                 tabindex="0"></iframe>
         </div>
